@@ -10,7 +10,7 @@
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
 🔍 I'm a **Frontend Developer** passionate about crafting beautiful and responsive web experiences.
  I'm currently **looking for entry-level opportunities** where I can grow as a fresher and contribute to real-world projects.
@@ -37,14 +37,14 @@ Strengthened my understanding of component-based UI, responsive design, and basi
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 
 📧 Email: **manikandan58003@gmail.com**  
 📄 View My Experience on: [LinkedIn Profile](https://www.linkedin.com/in/manikandan-v-r-p-822b8526b/)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan5803&show_icons=true&theme=tokyonight" width="48%" />
