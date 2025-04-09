@@ -34,7 +34,6 @@ Practiced creating real-world UI components and handling app state in a shopping
 Strengthened my understanding of component-based UI, responsive design, and basic state handling. *(Javascript, React JS, Tailwind CSS , Redux)*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manikandan5803](https://github.com/Manikandan5803)
-<!-- Replace the above with real links when available -->
 
 ---
 
@@ -48,7 +47,7 @@ Strengthened my understanding of component-based UI, responsive design, and basi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikndan5803&show_icons=true&theme=tokyonight" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Manikandan5803&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan5803&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
