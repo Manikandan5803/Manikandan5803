@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm MANIKANDAN V R P </h1>
-<h3 align="center">🚀 Aspiring Frontend Developer | Open to Opportunities</h3>
+<h3 align="center">🚀 Aspiring Software Developer | Open to Opportunities</h3>
 <p align="center">
    📍 Chennai, India
 </p>
@@ -12,7 +12,7 @@
 
 ### 💡 About Me
 
-🔍 I'm a **Frontend Developer** passionate about crafting beautiful and responsive web experiences.
+🔍 I'm a **Software Developer** passionate about crafting beautiful and responsive web experiences.
  I'm currently **looking for entry-level opportunities** where I can grow as a fresher and contribute to real-world projects.
 
 ---
