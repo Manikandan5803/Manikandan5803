@@ -36,14 +36,18 @@
 
 Here are a few things I’ve built recently:
 
-- **[E-Commerce Product Page](#)** – Built a responsive e-commerce product page using React.js, Tailwind CSS, and Redux with features like product display, add-to-cart, and state management.
-Practiced creating real-world UI components and handling app state in a shopping scenario.
- <br/> Teachnologies Used- *( Javascript, React JS, Tailwind CSS , Redux)*
+- **[E-Commerce Product Page](#)** – Created a basic e-commerce product page to display product details like images, price, and description.
+Used React.js to build interactive components such as product cards and buttons.
+Styled the page using Bootstrap to make it clean and mobile-responsive.
+This project helped me practice building real-world UI components.
+ <br/> Teachnologies Used- *( Javascript, React JS, Bootstrap)*
 <br/>👨‍💻 Click here to view this project [https://github.com/Manikandan5803](https://github.com/Manikandan5803)
 
-- **[To-Do list Application](#)** – Developed a To-Do List app using React.js, Tailwind CSS, and Redux for task management with add, update, and delete features.
-Strengthened my understanding of component-based UI, responsive design, and basic state handling.
-<br/> Teachnologies Used- *( Javascript, React JS, Tailwind CSS , Redux)*
+- **[To-Do list Application](#)** – Built a simple and user-friendly To-Do List app to manage daily tasks.
+Used React.js to create reusable components and Bootstrap for clean and responsive styling.
+Implemented basic functionalities like add, update, and delete tasks.
+This project helped me understand the fundamentals of React.
+<br/> Teachnologies Used- *( Javascript, React JS, Bootstrap)*
 <br/>👨‍💻 Click here to view this project [https://github.com/Manikandan5803](https://github.com/Manikandan5803)
 ---
 
