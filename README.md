@@ -48,7 +48,7 @@ Used React.js to create reusable components and Bootstrap for clean and responsi
 Implemented basic functionalities like add, update, and delete tasks.
 This project helped me understand the fundamentals of React.
 <br/> Teachnologies Used- *( Javascript, React JS, Bootstrap)*
-<br/>👨‍💻 Click here to view this project [https://github.com/Manikandan5803](https://github.com/Manikandan5803)
+<br/>👨‍💻 Click here to view this project [https://github.com/Manikandan5803](https://github.com/Manikandan5803/To-do-list)
 ---
 
 ### 🔗 Connect with Me
