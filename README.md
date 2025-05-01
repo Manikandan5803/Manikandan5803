@@ -41,7 +41,7 @@ Created reusable React components like Navbar, Postcards, Suggestions, Stories.
 Used Bootstrap for responsive styling and layout.
 Improved understanding of UI/UX design principles by mimicking a real-world app
  <br/> Teachnologies Used- *( Javascript, React JS, Bootstrap)*
-<br/>👨‍💻 Click here to view this project [https://github.com/Manikandan5803](https://github.com/Manikandan5803)
+<br/>👨‍💻 Click here to view this project [https://github.com/Manikandan5803](https://github.com/Manikandan5803/Instagram-Clone)
 
 - **[To-Do list Application](#)** – Built a simple and user-friendly To-Do List app to manage daily tasks.
 Used React.js to create reusable components and Bootstrap for clean and responsive styling.
