@@ -36,10 +36,10 @@
 
 Here are a few things I’ve built recently:
 
-- **[E-Commerce Product Page](#)** – Created a basic e-commerce product page to display product details like images, price, and description.
-Used React.js to build interactive components such as product cards and buttons.
-Styled the page using Bootstrap to make it clean and mobile-responsive.
-This project helped me practice building real-world UI components.
+- **[Instagram clone- Frontend Interface](#)** – Designed and implemented a responsive user interface resembling Instagram.
+Created reusable React components like Navbar, Postcards, Suggestions, Stories.
+Used Bootstrap for responsive styling and layout.
+Improved understanding of UI/UX design principles by mimicking a real-world app
  <br/> Teachnologies Used- *( Javascript, React JS, Bootstrap)*
 <br/>👨‍💻 Click here to view this project [https://github.com/Manikandan5803](https://github.com/Manikandan5803)
 
