@@ -44,8 +44,8 @@ Improved understanding of UI/UX design principles by mimicking a real-world app
 <br/>👨‍💻 Click here to view this project [View](https://github.com/Manikandan5803/Instagram-Clone)
 
 - **[To-Do list Application](#)** – Built a simple and user-friendly To-Do List app to manage daily tasks.
-Used React.js to create reusable components and Bootstrap for clean and responsive styling.
-Implemented basic functionalities like add, update, and delete tasks.
+Used React.js to create reusable components and Utilized CSS to make webpages responsive.
+Implemented basic functionalities like add and delete tasks.
 This project helped me understand the fundamentals of React.
 <br/> Teachnologies Used- *( Javascript, React JS, Bootstrap)*
 <br/>👨‍💻 Click here to view this project [View](https://github.com/Manikandan5803/To-do-list)
