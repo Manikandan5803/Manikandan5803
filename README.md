@@ -65,12 +65,8 @@ This project helped me understand the fundamentals of React.
 
   <img src="https://github-readme-stats-manikandan5803.vercel.app/api/top-langs/?username=Manikandan5803&layout=compact&theme=tokyonight" width="48%" />
 
-   
-   ### 📊 Most Used Languages
-![Top Langs]()
-
-</p>
-
+   </p>
+  
 ---
 
 <p align="center">
