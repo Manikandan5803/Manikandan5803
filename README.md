@@ -62,8 +62,8 @@ This project helped me understand the fundamentals of React.
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan5803&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan5803&layout=compact&theme=tokyonight" width="48%" />
 
-  <img src="https://github-readme-stats-manikandan5803.vercel.app/api/top-langs/?username=Manikandan5803&layout=compact&theme=tokyonight" width="48%" />
 
    </p>
   
